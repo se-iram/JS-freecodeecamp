@@ -6,8 +6,8 @@ const clearButton = document.getElementById("clear")
 const output = document.getElementById("output")
 
 // to check wether user input calue is valid or not
-let isError = false
+// let isError = false
 // function to clean input string
 function cleanInputString(str){
-    calorieCounter
+const regex = /\+-/
 }
